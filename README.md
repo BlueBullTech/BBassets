@@ -1,33 +1,66 @@
 # Assets CDN
 
-Repositorio centralizado de assets estáticos (imágenes, iconos, banners) para usar en múltiples proyectos.
+Centralized repository for static assets (images, icons, banners) to use across multiple projects.
 
-## 🚀 Uso
+## 📤 How to Upload Content
 
-Todos los assets están disponibles vía jsDelivr CDN:
+1. **Drag your images** to the corresponding folder (`backgrounds/`, `banners/`, `icons/`, `logos/`, or `products/`)
+
+2. **Run Git commands**:
+   ```bash
+   git add .
+   git commit -m "Add new images"
+   git push
+   ```
+
+3. **Use the generated link**. Always follow this pattern:
+   ```
+   https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/[folder]/[filename]
+   ```
+
+### 🔍 Example with WhatsApp Icon:
+
+If you upload `Whatsapp.svg` to the `images/logos/` folder, the link will be:
 
 ```
-https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/[ruta-del-archivo]
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Whatsapp.svg
 ```
 
-### Ejemplos:
+**Link breakdown:**
+- `@master` → Branch name (will always be `master` in this repo)
+- `images/logos/` → Path to the folder where the file is located
+- `Whatsapp.svg` → Filename with extension
+
+> **Note**: The CDN may take 1-2 minutes to update after pushing.
+
+---
+
+## 🚀 Usage
+
+All assets are available via jsDelivr CDN:
+
+```
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/[file-path]
+```
+
+### Examples:
 
 ```html
 <!-- Logo -->
-<img src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/logos/logo.svg" alt="Logo">
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/logo.svg" alt="Logo">
 
 <!-- Banner -->
-<img src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/banners/hero-casino.jpg" alt="Banner">
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/hero-casino.jpg" alt="Banner">
 
 <!-- Icono -->
-<img src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/icons/check.svg" alt="Check">
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/icons/check.svg" alt="Check">
 ```
 
 ### Con React/JSX:
 
 ```jsx
 <img 
-  src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/logos/logo.svg" 
+  src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/logo.svg" 
   alt="Logo" 
 />
 ```
@@ -36,7 +69,7 @@ https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/[ruta-del-archivo]
 
 ```css
 .hero {
-  background-image: url('https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/backgrounds/hero-bg.jpg');
+  background-image: url('https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/backgrounds/hero-bg.jpg');
 }
 ```
 
@@ -54,41 +87,41 @@ assets-cdn/
 └── videos/             # Videos (usar con precaución, pueden ser pesados)
 ```
 
-## ⚡ Ventajas
+## ⚡ Advantages
 
-- **CDN Global**: Servidores rápidos en todo el mundo
-- **Gratis**: Sin límites de ancho de banda
-- **Cache automático**: Optimización de carga
-- **Versionado**: Control con Git tags
-- **Sin configuración**: Solo sube y usa
+- **Global CDN**: Fast servers worldwide
+- **Free**: No bandwidth limits
+- **Automatic caching**: Load optimization
+- **Versioning**: Control with Git tags
+- **No configuration**: Just upload and use
 
-## 🔄 Versiones
+## 🔄 Versions
 
-Para usar una versión específica (recomendado en producción):
+To use a specific version (recommended for production):
 
 ```html
-<!-- Versión específica con tag -->
-<img src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@v1.0.0/images/logos/logo.svg">
+<!-- Specific version with tag -->
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@v1.0.0/images/logos/logo.svg">
 
-<!-- Última versión de main (desarrollo) -->
-<img src="https://cdn.jsdelivr.net/gh/AlaStOrSC/BBassets@main/images/logos/logo.svg">
+<!-- Latest version from master (development) -->
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/logo.svg">
 ```
 
-## 📝 Convenciones
+## 📝 Conventions
 
-- **Nombres de archivo**: kebab-case (logo-dark.svg, hero-banner.jpg)
-- **Formatos recomendados**:
-  - Logos e iconos: `.svg` (escalable)
-  - Fotos: `.jpg` o `.webp`
-  - Imágenes con transparencia: `.png` o `.webp`
-- **Optimizar antes de subir**: Usa tinypng.com o similar
+- **File names**: kebab-case (logo-dark.svg, hero-banner.jpg)
+- **Recommended formats**:
+  - Logos and icons: `.svg` (scalable)
+  - Photos: `.jpg` or `.webp`
+  - Images with transparency: `.png` or `.webp`
+- **Optimize before uploading**: Use tinypng.com or similar
 
-## 🚀 Proyectos que usan este CDN
+## 🚀 Projects Using This CDN
 
 - BombaCalor Landing
 - Casino Promos
-- Términos y Condiciones
+- Terms and Conditions
 
 ---
 
-**Última actualización**: Noviembre 2025
+**Last updated**: November 2025
