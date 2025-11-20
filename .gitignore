@@ -7,6 +7,8 @@ node_modules/
 *.tmp
 *.temp
 output/
+input/
+
 
 # Editores
 .vscode/

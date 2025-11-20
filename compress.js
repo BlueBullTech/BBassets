@@ -28,17 +28,20 @@ tinify.key = apiKey;
 
 // console.log("TinyPNG API Key is set:", tinify.key);
 
-const files = process.argv.slice(2);
-
-if (files.length === 0) {
-  console.log("Usage: node compress.js file1.png file2.jpg ...");
+// Check minimum arguments
+if (process.argv.length < 4) {
+  console.log("Usage: node compress.js <image1> <image2> ... <output_folder>");
   process.exit(0);
 }
 
-const outputDir = "./output";
+// Last argument is the output folder
+const args = process.argv.slice(2);
+const outputDir = args.pop(); 
+const files = args;
 
+// Ensure output folder exists
 if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir);
+  fs.mkdirSync(outputDir, { recursive: true });
 }
 
 function getExt(file) {
