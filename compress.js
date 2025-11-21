@@ -7,15 +7,6 @@ const tinify = require("tinify");
 // dotenv.config();
 const result = dotenv.config();
 
-/* Show what was loaded
-console.log("Loaded .env variables:", result.parsed);
-
-if (result.error) {
-    console.error("❌ Error loading .env:", result.error);
-} else {
-    console.log("✅ Loaded .env variables:", result.parsed);
-}
-*/
 // Set TinyPNG key explicitly from parsed result
 const apiKey = result.parsed.TINIFY_API_KEY;
 
