@@ -1,33 +1,37 @@
 const fs = require("fs");
 const path = require("path");
-// Load environment variables from .env
-const dotenv = require("dotenv");
 const tinify = require("tinify");
+const dotenv = require("dotenv");
 
-// dotenv.config();
-const result = dotenv.config();
-
-// Set TinyPNG key explicitly from parsed result
-const apiKey = result.parsed.TINIFY_API_KEY;
-
-if (!apiKey) {
-  console.error("❌ Missing TinyPNG API Key. Set TINIFY_API_KEY environment variable.");
+// Load .env
+dotenv.config();
+if (!process.env.TINIFY_API_KEY) {
+  console.error("❌ Missing TINIFY_API_KEY in .env file");
   process.exit(1);
 }
+tinify.key = process.env.TINIFY_API_KEY;
+console.log("TinyPNG API key loaded.");
 
-tinify.key = apiKey;
+// --------------------
+// Process arguments
+// --------------------
+const args = process.argv.slice(2);
 
-// console.log("TinyPNG API Key is set:", tinify.key);
-
-// Check minimum arguments
-if (process.argv.length < 4) {
-  console.log("Usage: node compress.js <image1> <image2> ... <output_folder>");
+if (args.length < 2) {
+  console.log("Usage: node compress.js <image1> <image2> ... <output_folder> [output_ext]");
   process.exit(0);
 }
 
-// Last argument is the output folder
-const args = process.argv.slice(2);
-const outputDir = args.pop(); 
+// Last argument = output folder
+const outputDir = args.pop();
+
+// Optional last argument = output extension
+let outputExt = "webp";
+if (args.length > 0 && ["webp", "png", "jpg"].includes(args[args.length-1].toLowerCase())) {
+  outputExt = args.pop().toLowerCase();
+}
+
+// Remaining args = image files
 const files = args;
 
 // Ensure output folder exists
@@ -38,13 +42,15 @@ if (!fs.existsSync(outputDir)) {
 // Path to link.txt
 const linkFilePath = path.join(outputDir, "link.txt");
 
-// Create link.txt immediately if missing
+// Create link.txt if missing
 if (!fs.existsSync(linkFilePath)) {
   fs.writeFileSync(linkFilePath, "", "utf8");
-  console.log(`Created link.txt in: ${outputDir}`);
+  console.log(`📄 Created link.txt in: ${outputDir}`);
 }
 
-// Generate CDN link block
+// --------------------
+// Generate CDN + HTML block
+// --------------------
 function generateLinkBlock(relativePath, filenameOnly) {
   return `
 <!-- ${filenameOnly} -->
@@ -54,39 +60,59 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/${relativePath}
 `;
 }
 
-function getExt(file) {
-  return path.extname(file).toLowerCase();
-}
-
-async function processImage(file) {
-  const ext = getExt(file);
-  const isWebp = ext === ".webp";
+// --------------------
+// Process a single image
+// --------------------
+async function processImage(file, outputExt) {
+  const ext = path.extname(file).toLowerCase();
+  console.log(ext);
   const name = path.basename(file, ext);
-  const outputFile = path.join(outputDir, `${name}.webp`);
-  const block = generateLinkBlock(outputFile, `${name}.webp`);
-  fs.appendFileSync(linkFilePath, block, "utf8");
-  console.log(`🔗 Added link block for ${name}.webp`);
-
+  console.log(name);
+  const outputFile = path.join(outputDir, `${name}.${outputExt}`);
+  console.log(outputFile);
 
   try {
     const source = tinify.fromFile(file);
 
-    if (isWebp) {
+    if (ext === `.${outputExt}`) {
+      // File already has the desired extension, just compress
       await source.toFile(outputFile);
-      console.log(`✔ Compressed (WebP unchanged): ${outputFile}`);
+      console.log(`✔ Compressed (no conversion): ${outputFile}`);
     } else {
-      const converted = source.convert({ type: ["image/webp"] });
+      // Normalize extension for TinyPNG
+      let tinifyType = outputExt.toLowerCase();
+      if (tinifyType === "jpg") tinifyType = "jpeg"; // TinyPNG prefers "jpeg"
+      tinifyType = `image/${tinifyType}`;
+
+      // Convert + compress
+      const converted = source.convert({ type: tinifyType });
       await converted.toFile(outputFile);
       console.log(`✔ Converted + Compressed → ${outputFile}`);
     }
+
+    // Append link block to link.txt
+    const filenameOnly = `${name}.${outputExt}`;
+    const relativePath = path.join(path.basename(outputDir), filenameOnly).replace(/\\/g, "/");
+    const block = generateLinkBlock(relativePath, filenameOnly);
+    fs.appendFileSync(linkFilePath, block, "utf8");
+    console.log(`🔗 Added link block for ${filenameOnly}`);
+
   } catch (err) {
     console.error(`❌ Error processing ${file}: ${err.message}`);
   }
 }
 
+// --------------------
+// Run processing
+// --------------------
 async function run() {
   for (const file of files) {
-    await processImage(file);
+    // Skip directories
+    if (fs.existsSync(file) && fs.statSync(file).isFile()) {
+      await processImage(file, outputExt);
+    } else {
+      console.warn(`⚠ Skipping non-file: ${file}`);
+    }
   }
 }
 
