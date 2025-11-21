@@ -35,6 +35,25 @@ if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }
 
+// Path to link.txt
+const linkFilePath = path.join(outputDir, "link.txt");
+
+// Create link.txt immediately if missing
+if (!fs.existsSync(linkFilePath)) {
+  fs.writeFileSync(linkFilePath, "", "utf8");
+  console.log(`Created link.txt in: ${outputDir}`);
+}
+
+// Generate CDN link block
+function generateLinkBlock(relativePath, filenameOnly) {
+  return `
+<!-- ${filenameOnly} -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/${relativePath}
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/${relativePath}" alt="${filenameOnly}">
+`;
+}
+
 function getExt(file) {
   return path.extname(file).toLowerCase();
 }
@@ -44,6 +63,10 @@ async function processImage(file) {
   const isWebp = ext === ".webp";
   const name = path.basename(file, ext);
   const outputFile = path.join(outputDir, `${name}.webp`);
+  const block = generateLinkBlock(outputFile, `${name}.webp`);
+  fs.appendFileSync(linkFilePath, block, "utf8");
+  console.log(`🔗 Added link block for ${name}.webp`);
+
 
   try {
     const source = tinify.fromFile(file);
