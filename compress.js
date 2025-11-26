@@ -92,7 +92,14 @@ async function processImage(file, outputExt) {
 
     // Append link block to link.txt
     const filenameOnly = `${name}.${outputExt}`;
-    const relativePath = path.join(path.basename(outputDir), filenameOnly).replace(/\\/g, "/");
+    // Build a relative path from the current working directory to the output file
+    let relativePath = path.relative(process.cwd(), path.join(outputDir, filenameOnly)).replace(/\\/g, "/");
+    // If the relative path climbs out of the project (starts with '..') or is empty,
+    // fall back to using the outputDir + filename (still normalized for CDN).
+    if (!relativePath || relativePath.startsWith("..")) {
+      relativePath = path.join(outputDir, filenameOnly).replace(/\\/g, "/");
+    }
+    
     const block = generateLinkBlock(relativePath, filenameOnly);
     fs.appendFileSync(linkFilePath, block, "utf8");
     console.log(`🔗 Added link block for ${filenameOnly}`);
