@@ -18,3 +18,14 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110.png" alt="Casinolive_logo_web_400x95.png">
+
+<!-- Casinolive.bet_logo_web_400x110.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110.png" alt="Casinolive_logo_web_400x95.png">
+
+<!-- Casinolive.bet_logo_web_400x110_v2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110_v2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Casinolive.bet_logo_web_400x110_v2.png" alt="Casinolive_logo_web_400x95.png">
+
