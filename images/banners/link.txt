@@ -1,0 +1,5 @@
+
+<!-- banner-casinolive-crm.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm.png" alt="banner-casinolive-crm.png">
