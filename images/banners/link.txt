@@ -3,3 +3,13 @@
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm.png" alt="banner-casinolive-crm.png">
+
+<!-- banner-casinolive-crm-v1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v1.png" alt="banner-casinolive-crm-v1.png">
+
+<!-- banner-casinolive-crm-v2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v2.png" alt="banner-casinolive-crm-v2.png">
