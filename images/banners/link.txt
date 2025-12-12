@@ -13,3 +13,23 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-c
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v2.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-v2.png" alt="banner-casinolive-crm-v2.png">
+
+<!-- Banners-casinolive-crm-600x300-v1-12-12-2025.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v1-12-12-2025.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v1-12-12-2025.png" alt="Banners-casinolive-crm-600x300-v1-12-12-2025.png">
+
+<!-- Banners-casinolive-crm-600x300-v2-12-12-2025.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v2-12-12-2025.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v2-12-12-2025.png" alt="Banners-casinolive-crm-600x300-v2-12-12-2025.png">
+
+<!-- Banners-casinolive-crm-600x300-v3-12-12-2025.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v3-12-12-2025.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v3-12-12-2025.png" alt="Banners-casinolive-crm-600x300-v3-12-12-2025.png">
+
+<!-- Banners-casinolive-crm-600x300-v4-12-12-2025.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v4-12-12-2025.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v4-12-12-2025.png" alt="Banners-casinolive-crm-600x300-v4-12-12-2025.png">
