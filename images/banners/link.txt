@@ -33,3 +33,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v4-12-12-2025.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-casinolive-crm-600x300-v4-12-12-2025.png" alt="Banners-casinolive-crm-600x300-v4-12-12-2025.png">
+
+<!-- email_template_600x300_15_12_2025.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/email_template_600x300_15_12_2025.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/email_template_600x300_15_12_2025.png" alt="email_template_600x300_15_12_2025.png">
