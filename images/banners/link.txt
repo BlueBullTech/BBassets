@@ -38,3 +38,18 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Banners-
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/email_template_600x300_15_12_2025.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/email_template_600x300_15_12_2025.png" alt="email_template_600x300_15_12_2025.png">
+
+<!-- CRM_Email_2_Onboarding.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_2_Onboarding.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_2_Onboarding.png" alt="CRM_Email_2_Onboarding.png">
+
+<!-- CRM_Email_3_Onboarding.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_3_Onboarding.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_3_Onboarding.png" alt="CRM_Email_3_Onboarding.png">
+
+<!-- CRM_Email_4_Onboarding.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_4_Onboarding.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_4_Onboarding.png" alt="CRM_Email_4_Onboarding.png">
