@@ -78,3 +78,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Emai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_8_Onboarding.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Email_8_Onboarding.png" alt="CRM_Email_8_Onboarding.png">
+
+<!-- WelcomeOffer_casinolive_1920x625_Dec25.webp -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/WelcomeOffer_casinolive_1920x625_Dec25.webp
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/WelcomeOffer_casinolive_1920x625_Dec25.webp" alt="WelcomeOffer_casinolive_1920x625_Dec25.webp">
+
+<!-- banner-crm_pix_issue_email_600x300_480.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png" alt="banner-crm_pix_issue_email_600x300_480.png">
