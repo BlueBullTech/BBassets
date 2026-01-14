@@ -88,3 +88,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/WelcomeO
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png" alt="banner-crm_pix_issue_email_600x300_480.png">
+
+<!-- CRM_Whatsapp_image_RND800_800.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Whatsapp_image_RND800_800.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_Whatsapp_image_RND800_800.png" alt="CRM_Whatsapp_image_RND800_800.png">
+
+<!-- CRM_email_header_bonus_New_welcome_600x300.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_email_header_bonus_New_welcome_600x300.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_email_header_bonus_New_welcome_600x300.png" alt="CRM_email_header_bonus_New_welcome_600x300.png">
