@@ -88,3 +88,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/WelcomeO
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-crm_pix_issue_email_600x300_480.png" alt="banner-crm_pix_issue_email_600x300_480.png">
+
+<!-- banner-casinolive-crm-14-01-2026.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-14-01-2026.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-14-01-2026.png" alt="banner-casinolive-crm-14-01-2026.png">
