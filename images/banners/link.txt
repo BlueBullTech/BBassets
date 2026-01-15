@@ -102,3 +102,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_emai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-14-01-2026.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/banner-casinolive-crm-14-01-2026.png" alt="banner-casinolive-crm-14-01-2026.png">
+
+<!-- CRM_EMAIL_600X300_Telegram.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_EMAIL_600X300_Telegram.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_EMAIL_600X300_Telegram.png" alt="CRM_EMAIL_600X300_Telegram.png">
