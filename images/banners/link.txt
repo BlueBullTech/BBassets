@@ -117,3 +117,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CASINOLI
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMPIXTRUST_JAN26.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMPIXTRUST_JAN26.png" alt="CL_EMAIL_600X300_CRMPIXTRUST_JAN26.png">
+
+<!-- CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png" alt="CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png">
