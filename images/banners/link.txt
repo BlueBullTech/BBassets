@@ -122,3 +122,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png" alt="CL_EMAIL_600X300_CRMFEEDBACK_JAN26.png">
+
+<!-- EMAIL600x300cashback.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL600x300cashback.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL600x300cashback.png" alt="EMAIL600x300cashback.png">
