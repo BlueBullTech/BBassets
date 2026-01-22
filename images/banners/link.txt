@@ -127,3 +127,43 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CL_EMAIL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL600x300cashback.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL600x300cashback.png" alt="EMAIL600x300cashback.png">
+
+<!-- SUBICON_CRM_TELEGRAM300X200.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM300X200.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM300X200.png" alt="SUBICON_CRM_TELEGRAM300X200.png">
+
+<!-- SUBICON_CRM_TELEGRAM300X200_fondoemail.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM300X200_fondoemail.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM300X200_fondoemail.png" alt="SUBICON_CRM_TELEGRAM300X200_fondoemail.png">
+
+<!-- SUBICON_CRM_TELEGRAM360X240.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM360X240.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM360X240.png" alt="SUBICON_CRM_TELEGRAM360X240.png">
+
+<!-- SUBICON_CRM_TELEGRAM360X240_fondoemail.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM360X240_fondoemail.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBICON_CRM_TELEGRAM360X240_fondoemail.png" alt="SUBICON_CRM_TELEGRAM360X240_fondoemail.png">
+
+<!-- Facebook_EMAIL_CRM.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Facebook_EMAIL_CRM.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Facebook_EMAIL_CRM.png" alt="Facebook_EMAIL_CRM.png">
+
+<!-- Instagram_EMAIL_CRM1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Instagram_EMAIL_CRM1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Instagram_EMAIL_CRM1.png" alt="Instagram_EMAIL_CRM1.png">
+
+<!-- Telegram_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Telegram_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Telegram_EMAIL_CRM2.png" alt="Telegram_EMAIL_CRM2.png">
+
+<!-- TikTok_EMAIL_CRM3.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TikTok_EMAIL_CRM3.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TikTok_EMAIL_CRM3.png" alt="TikTok_EMAIL_CRM3.png">
