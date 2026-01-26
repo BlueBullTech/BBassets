@@ -167,3 +167,63 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Telegram
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TikTok_EMAIL_CRM3.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TikTok_EMAIL_CRM3.png" alt="TikTok_EMAIL_CRM3.png">
+
+<!-- TIKTOK_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM2.png" alt="TIKTOK_EMAIL_CRM2.png">
+
+<!-- FACEBOOK_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM2.png" alt="FACEBOOK_EMAIL_CRM2.png">
+
+<!-- INSTAGRAM_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM2.png" alt="INSTAGRAM_EMAIL_CRM2.png">
+
+<!-- TELEGRAM_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM2.png" alt="TELEGRAM_EMAIL_CRM2.png">
+
+<!-- FACEBOOK_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM2.png" alt="FACEBOOK_EMAIL_CRM2.png">
+
+<!-- INSTAGRAM_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM2.png" alt="INSTAGRAM_EMAIL_CRM2.png">
+
+<!-- TELEGRAM_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM2.png" alt="TELEGRAM_EMAIL_CRM2.png">
+
+<!-- TIKTOK_EMAIL_CRM2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM2.png" alt="TIKTOK_EMAIL_CRM2.png">
+
+<!-- FACEBOOK_EMAIL_CRM4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/FACEBOOK_EMAIL_CRM4.png" alt="FACEBOOK_EMAIL_CRM4.png">
+
+<!-- INSTAGRAM_EMAIL_CRM4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/INSTAGRAM_EMAIL_CRM4.png" alt="INSTAGRAM_EMAIL_CRM4.png">
+
+<!-- TELEGRAM_EMAIL_CRM4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAIL_CRM4.png" alt="TELEGRAM_EMAIL_CRM4.png">
+
+<!-- TIKTOK_EMAIL_CRM4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM4.png" alt="TIKTOK_EMAIL_CRM4.png">
