@@ -227,3 +227,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM4.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_EMAIL_CRM4.png" alt="TIKTOK_EMAIL_CRM4.png">
+
+<!-- EMAIL_PT_NEW_600x300.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300.png" alt="EMAIL_PT_NEW_600x300.png">
