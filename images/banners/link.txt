@@ -237,3 +237,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/PROMOTILE375X250cashback.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/PROMOTILE375X250cashback.png" alt="PROMOTILE375X250cashback.png">
+
+<!-- TESTCRMSUB375x500.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TESTCRMSUB375x500.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TESTCRMSUB375x500.png" alt="TESTCRMSUB375x500.png">
