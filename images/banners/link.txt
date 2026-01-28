@@ -232,3 +232,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TIKTOK_E
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300.png" alt="EMAIL_PT_NEW_600x300.png">
+
+<!-- PROMOTILE375X250cashback.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/PROMOTILE375X250cashback.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/PROMOTILE375X250cashback.png" alt="PROMOTILE375X250cashback.png">
