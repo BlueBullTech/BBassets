@@ -242,3 +242,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/PROMOTIL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TESTCRMSUB375x500.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TESTCRMSUB375x500.png" alt="TESTCRMSUB375x500.png">
+
+<!-- SUBSTORYCRMMAILER375x500referafriend.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500referafriend.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500referafriend.png" alt="SUBSTORYCRMMAILER375x500referafriend.png">
+
+<!-- SUBSTORYCRMMAILER375x500cashback.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500cashback.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500cashback.png" alt="SUBSTORYCRMMAILER375x500cashback.png">
