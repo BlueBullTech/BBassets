@@ -252,3 +252,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORY
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500cashback.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBSTORYCRMMAILER375x500cashback.png" alt="SUBSTORYCRMMAILER375x500cashback.png">
+
+<!-- EMAIL_PT_NEW_600x300_NEW_DEPOSITLIVRE.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300_NEW_DEPOSITLIVRE.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT_NEW_600x300_NEW_DEPOSITLIVRE.png" alt="EMAIL_PT_NEW_600x300_NEW_DEPOSITLIVRE.png">
+
+<!-- CRMSUB_DEPOSITNOTBLOCKED.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMSUB_DEPOSITNOTBLOCKED.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMSUB_DEPOSITNOTBLOCKED.png" alt="CRMSUB_DEPOSITNOTBLOCKED.png">
