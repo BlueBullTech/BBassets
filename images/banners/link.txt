@@ -292,3 +292,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT_email.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT_email.png" alt="CARNAVAL_Welcome_Offer_PT_email.png">
+
+<!-- REFERAFRIEND_EMAIL_IMAGE_CRMFEB26.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REFERAFRIEND_EMAIL_IMAGE_CRMFEB26.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REFERAFRIEND_EMAIL_IMAGE_CRMFEB26.png" alt="REFERAFRIEND_EMAIL_IMAGE_CRMFEB26.png">
