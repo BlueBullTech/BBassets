@@ -262,3 +262,33 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_PT
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMSUB_DEPOSITNOTBLOCKED.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMSUB_DEPOSITNOTBLOCKED.png" alt="CRMSUB_DEPOSITNOTBLOCKED.png">
+
+<!-- CARNAVAL_CASHBACK_PT.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_CASHBACK_PT.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_CASHBACK_PT.png" alt="CARNAVAL_CASHBACK_PT.png">
+
+<!-- CARNAVAL_REFERAFRIEND_PT.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_REFERAFRIEND_PT.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_REFERAFRIEND_PT.png" alt="CARNAVAL_REFERAFRIEND_PT.png">
+
+<!-- CARNAVAL_Welcome_Offer_PT.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT.png" alt="CARNAVAL_Welcome_Offer_PT.png">
+
+<!-- CARNAVAL_CASHBACK_PT_email.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_CASHBACK_PT_email.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_CASHBACK_PT_email.png" alt="CARNAVAL_CASHBACK_PT_email.png">
+
+<!-- CARNAVAL_REFERAFRIEND_PT_email.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_REFERAFRIEND_PT_email.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_REFERAFRIEND_PT_email.png" alt="CARNAVAL_REFERAFRIEND_PT_email.png">
+
+<!-- CARNAVAL_Welcome_Offer_PT_email.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT_email.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CARNAVAL_Welcome_Offer_PT_email.png" alt="CARNAVAL_Welcome_Offer_PT_email.png">
