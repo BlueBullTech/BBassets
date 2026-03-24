@@ -302,3 +302,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REFERAFR
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REBRANDING_PLAYX.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REBRANDING_PLAYX.png" alt="REBRANDING_PLAYX.png">
+
+<!-- REBRANDING_EMAIL_WELCOMEOFFER.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REBRANDING_EMAIL_WELCOMEOFFER.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REBRANDING_EMAIL_WELCOMEOFFER.png" alt="REBRANDING_EMAIL_WELCOMEOFFER.png">
