@@ -44,3 +44,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/casinobet-
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/casinobet-logo-v5.png" alt="Casinolive_logo_web_400x95.png">
 
+
+<!-- BetaminaLogopng.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/BetaminaLogopng.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/BetaminaLogopng.png" alt="BetaminaLogopng.png">
