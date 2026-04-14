@@ -312,3 +312,18 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/REBRANDI
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAILBanner600x600.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_EMAILBanner600x600.png" alt="TELEGRAM_EMAILBanner600x600.png">
+
+<!-- crm_emailbannerwelcomev2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbannerwelcomev2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbannerwelcomev2.png" alt="crm_emailbannerwelcomev2.png">
+
+<!-- TELEGRAM_RIFA.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_RIFA.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM_RIFA.png" alt="TELEGRAM_RIFA.png">
+
+<!-- crm_emailbanneramigo.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbanneramigo.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbanneramigo.png" alt="crm_emailbanneramigo.png">
