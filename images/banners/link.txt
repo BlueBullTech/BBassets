@@ -337,3 +337,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_PTBR.png">
+
+<!-- crm_email_WELCOME_DISCOUNTOFFER_Reminder1_PTBR.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder1_PTBR.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder1_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_Reminder1_PTBR.png">
+
+<!-- crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png">
