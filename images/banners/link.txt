@@ -327,3 +327,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TELEGRAM
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbanneramigo.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emailbanneramigo.png" alt="crm_emailbanneramigo.png">
+
+<!-- crm_email_WELCOME_DISCOUNTOFFER_PTBR.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_PTBR.png">
+
+<!-- crm_email_WELCOME_DISCOUNTOFFER_PTBR.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_PTBR.png">
