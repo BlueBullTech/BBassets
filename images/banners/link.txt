@@ -347,3 +347,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png" alt="crm_email_WELCOME_DISCOUNTOFFER_Reminder2_PTBR.png">
+
+<!-- CRMEMAIL_NEWPRO_CPBETORA_JUNE26.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_NEWPRO_CPBETORA_JUNE26.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_NEWPRO_CPBETORA_JUNE26.png" alt="CRMEMAIL_NEWPRO_CPBETORA_JUNE26.png">
+
+<!-- CRMEMAIL_SPORT_NOWAVJUNE26.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_SPORT_NOWAVJUNE26.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_SPORT_NOWAVJUNE26.png" alt="CRMEMAIL_SPORT_NOWAVJUNE26.png">
