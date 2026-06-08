@@ -357,3 +357,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_SPORT_NOWAVJUNE26.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL_SPORT_NOWAVJUNE26.png" alt="CRMEMAIL_SPORT_NOWAVJUNE26.png">
+
+<!-- crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png" alt="crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png">
