@@ -362,3 +362,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRMEMAIL
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png" alt="crm_email_WELCOME_WORLDCUP_OFFER_PTBR.png">
+
+<!-- EMAIL_NEWPROV_GTT_1S4W.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_NEWPROV_GTT_1S4W.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_NEWPROV_GTT_1S4W.png" alt="EMAIL_NEWPROV_GTT_1S4W.png">
