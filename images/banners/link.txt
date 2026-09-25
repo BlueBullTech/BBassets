@@ -367,3 +367,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/crm_emai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_NEWPROV_GTT_1S4W.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_NEWPROV_GTT_1S4W.png" alt="EMAIL_NEWPROV_GTT_1S4W.png">
+
+<!-- Bienvenida_aAR_Email_ES300x600.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Bienvenida_aAR_Email_ES300x600.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Bienvenida_aAR_Email_ES300x600.png" alt="Bienvenida_aAR_Email_ES300x600.png">
