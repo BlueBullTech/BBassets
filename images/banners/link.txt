@@ -372,3 +372,53 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_NE
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Bienvenida_aAR_Email_ES300x600.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Bienvenida_aAR_Email_ES300x600.png" alt="Bienvenida_aAR_Email_ES300x600.png">
+
+<!-- Email-Substories-202x200-1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-1.png" alt="Email-Substories-202x200-1.png">
+
+<!-- Email-Substories-202x200-Futbol.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Futbol.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Futbol.png" alt="Email-Substories-202x200-Futbol.png">
+
+<!-- Email-Substories-202x200-Roulette.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Roulette.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Roulette.png" alt="Email-Substories-202x200-Roulette.png">
+
+<!-- Email-Substories-202x200-SocialMedia.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-SocialMedia.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-SocialMedia.png" alt="Email-Substories-202x200-SocialMedia.png">
+
+<!-- Email-Substories-202x200-Baseball.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Baseball.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Email-Substories-202x200-Baseball.png" alt="Email-Substories-202x200-Baseball.png">
+
+<!-- HeroEmail-435x145px-Dato.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-435x145px-Dato.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-435x145px-Dato.png" alt="HeroEmail-435x145px-Dato.png">
+
+<!-- HeroEmail-435x145px-Vaina.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-435x145px-Vaina.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-435x145px-Vaina.png" alt="HeroEmail-435x145px-Vaina.png">
+
+<!-- HeroEmail-584x215px-Baseball.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-Baseball.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-Baseball.png" alt="HeroEmail-584x215px-Baseball.png">
+
+<!-- HeroEmail-584x215px-Bienvenido.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-Bienvenido.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-Bienvenido.png" alt="HeroEmail-584x215px-Bienvenido.png">
+
+<!-- HeroEmail-584x215px-FS.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-FS.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-FS.png" alt="HeroEmail-584x215px-FS.png">
