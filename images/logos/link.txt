@@ -49,3 +49,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/casinobet-
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/BetaminaLogopng.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/BetaminaLogopng.png" alt="BetaminaLogopng.png">
+
+<!-- Tuazarlogo2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Tuazarlogo2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Tuazarlogo2.png" alt="Tuazarlogo2.png">
+
+<!-- Tuazarlogo1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Tuazarlogo1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/logos/Tuazarlogo1.png" alt="Tuazarlogo1.png">
