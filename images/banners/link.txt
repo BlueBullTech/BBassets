@@ -422,3 +422,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-FS.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmail-584x215px-FS.png" alt="HeroEmail-584x215px-FS.png">
+
+<!-- Tuazar_LogoconAndroid.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_LogoconAndroid.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_LogoconAndroid.png" alt="Tuazar_LogoconAndroid.png">
