@@ -427,3 +427,33 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/HeroEmai
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_LogoconAndroid.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_LogoconAndroid.png" alt="Tuazar_LogoconAndroid.png">
+
+<!-- Tuazar_HeroBanner_Email_Sports1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Sports1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Sports1.png" alt="Tuazar_HeroBanner_Email_Sports1.png">
+
+<!-- Tuazar_HeroBanner_Email_bingo.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_bingo.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_bingo.png" alt="Tuazar_HeroBanner_Email_bingo.png">
+
+<!-- Tuazar_HeroBanner_Email_Sports1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Sports1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Sports1.png" alt="Tuazar_HeroBanner_Email_Sports1.png">
+
+<!-- Tuazar_HeroBanner_Email_Bienvenido2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Bienvenido2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_Bienvenido2.png" alt="Tuazar_HeroBanner_Email_Bienvenido2.png">
+
+<!-- Tuazar_HeroBanner_Email_bingo.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_bingo.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_bingo.png" alt="Tuazar_HeroBanner_Email_bingo.png">
+
+<!-- Tuazar_HeroBanner_Email_MoscasPues.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_MoscasPues.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_MoscasPues.png" alt="Tuazar_HeroBanner_Email_MoscasPues.png">
