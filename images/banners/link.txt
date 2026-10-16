@@ -462,3 +462,18 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_H
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TuazarAhinoacaba.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TuazarAhinoacaba.png" alt="TuazarAhinoacaba.png">
+
+<!-- CRM_TUAZAR-RNDFLUJO1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO1.png" alt="CRM_TUAZAR-RNDFLUJO1.png">
+
+<!-- CRM_TUAZAR-RNDFLUJO2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO2.png" alt="CRM_TUAZAR-RNDFLUJO2.png">
+
+<!-- CRM_TUAZAR-RNDFLUJO3.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO3.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO3.png" alt="CRM_TUAZAR-RNDFLUJO3.png">
