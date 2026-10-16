@@ -457,3 +457,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_H
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_MoscasPues.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_HeroBanner_Email_MoscasPues.png" alt="Tuazar_HeroBanner_Email_MoscasPues.png">
+
+<!-- TuazarAhinoacaba.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TuazarAhinoacaba.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TuazarAhinoacaba.png" alt="TuazarAhinoacaba.png">
