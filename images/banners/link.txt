@@ -477,3 +477,38 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZ
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO3.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/CRM_TUAZAR-RNDFLUJO3.png" alt="CRM_TUAZAR-RNDFLUJO3.png">
+
+<!-- Tuazar_email_FTD1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD1.png" alt="Tuazar_email_FTD1.png">
+
+<!-- Tuazar_email_FTD1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD1.png" alt="Tuazar_email_FTD1.png">
+
+<!-- Tuazar_email_FTD2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD2.png" alt="Tuazar_email_FTD2.png">
+
+<!-- Tuazar_email_FTD3.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD3.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD3.png" alt="Tuazar_email_FTD3.png">
+
+<!-- Tuazar_email_FTD4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD4.png" alt="Tuazar_email_FTD4.png">
+
+<!-- Tuazar_email_FTD5.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD5.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD5.png" alt="Tuazar_email_FTD5.png">
+
+<!-- Tuazar_email_FTD6.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD6.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD6.png" alt="Tuazar_email_FTD6.png">
