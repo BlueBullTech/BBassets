@@ -512,3 +512,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_e
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD6.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_FTD6.png" alt="Tuazar_email_FTD6.png">
+
+<!-- Tuazar_Email-Substories-Loto.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Email-Substories-Loto.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Email-Substories-Loto.png" alt="Tuazar_Email-Substories-Loto.png">
