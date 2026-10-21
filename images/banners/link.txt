@@ -517,3 +517,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_e
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Email-Substories-Loto.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Email-Substories-Loto.png" alt="Tuazar_Email-Substories-Loto.png">
+
+<!-- Tuazar_email_subStory_JACKPOT.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_JACKPOT.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_JACKPOT.png" alt="Tuazar_email_subStory_JACKPOT.png">
+
+<!-- Tuazar_email_subStory_RELOAD.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_RELOAD.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_RELOAD.png" alt="Tuazar_email_subStory_RELOAD.png">
