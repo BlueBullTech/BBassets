@@ -527,3 +527,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_e
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_RELOAD.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_email_subStory_RELOAD.png" alt="Tuazar_email_subStory_RELOAD.png">
+
+<!-- tuazar_logo_halloween_botom.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_botom.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_botom.png" alt="tuazar_logo_halloween_botom.png">
+
+<!-- tuazar_logo_halloween_top.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_top.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_top.png" alt="tuazar_logo_halloween_top.png">
