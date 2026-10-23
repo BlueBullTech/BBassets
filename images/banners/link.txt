@@ -537,3 +537,28 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_l
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_top.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_logo_halloween_top.png" alt="tuazar_logo_halloween_top.png">
+
+<!-- EmailBanner-STDFlow-584X219-1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-1.png" alt="EmailBanner-STDFlow-584X219-1.png">
+
+<!-- EmailBanner-STDFlow-584X219-2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-2.png" alt="EmailBanner-STDFlow-584X219-2.png">
+
+<!-- EmailBanner-STDFlow-584X219-3.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-3.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-3.png" alt="EmailBanner-STDFlow-584X219-3.png">
+
+<!-- EmailBanner-STDFlow-584X219-4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-4.png" alt="EmailBanner-STDFlow-584X219-4.png">
+
+<!-- EmailBanner-STDFlow-584X219-5.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-5.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-5.png" alt="EmailBanner-STDFlow-584X219-5.png">
