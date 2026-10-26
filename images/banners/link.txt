@@ -562,3 +562,38 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBan
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-5.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailBanner-STDFlow-584X219-5.png" alt="EmailBanner-STDFlow-584X219-5.png">
+
+<!-- EMAIL_TuAzar-584x219-HalloweenWoF.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_TuAzar-584x219-HalloweenWoF.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EMAIL_TuAzar-584x219-HalloweenWoF.png" alt="EMAIL_TuAzar-584x219-HalloweenWoF.png">
+
+<!-- substoryLuneshalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/substoryLuneshalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/substoryLuneshalloween.png" alt="substoryLuneshalloween.png">
+
+<!-- recargonmiercvoleshalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/recargonmiercvoleshalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/recargonmiercvoleshalloween.png" alt="recargonmiercvoleshalloween.png">
+
+<!-- recargondevierneshalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/recargondevierneshalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/recargondevierneshalloween.png" alt="recargondevierneshalloween.png">
+
+<!-- Recargonsabadohalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Recargonsabadohalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Recargonsabadohalloween.png" alt="Recargonsabadohalloween.png">
+
+<!-- Recargondominghalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Recargondominghalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Recargondominghalloween.png" alt="Recargondominghalloween.png">
+
+<!-- combiboosthalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/combiboosthalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/combiboosthalloween.png" alt="combiboosthalloween.png">
