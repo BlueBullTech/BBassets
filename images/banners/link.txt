@@ -597,3 +597,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Recargon
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/combiboosthalloween.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/combiboosthalloween.png" alt="combiboosthalloween.png">
+
+<!-- Cashbackhalloween.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Cashbackhalloween.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Cashbackhalloween.png" alt="Cashbackhalloween.png">
