@@ -602,3 +602,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/combiboo
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Cashbackhalloween.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Cashbackhalloween.png" alt="Cashbackhalloween.png">
+
+<!-- TUAZAR_RECARGÓN_MIERCOLES_EMAIL.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGÓN_MIERCOLES_EMAIL.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGÓN_MIERCOLES_EMAIL.png" alt="TUAZAR_RECARGÓN_MIERCOLES_EMAIL.png">
+
+<!-- TUAZAR_RECARGON_MIERCOLES_EMAIL.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGON_MIERCOLES_EMAIL.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGON_MIERCOLES_EMAIL.png" alt="TUAZAR_RECARGON_MIERCOLES_EMAIL.png">
