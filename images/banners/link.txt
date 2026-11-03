@@ -612,3 +612,13 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_R
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGON_MIERCOLES_EMAIL.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/TUAZAR_RECARGON_MIERCOLES_EMAIL.png" alt="TUAZAR_RECARGON_MIERCOLES_EMAIL.png">
+
+<!-- SUBS_DOMINGO.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_DOMINGO.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_DOMINGO.png" alt="SUBS_DOMINGO.png">
+
+<!-- SUBS_COMBO_SAB.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_COMBO_SAB.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_COMBO_SAB.png" alt="SUBS_COMBO_SAB.png">
