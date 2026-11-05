@@ -622,3 +622,28 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_DOM
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_COMBO_SAB.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/SUBS_COMBO_SAB.png" alt="SUBS_COMBO_SAB.png">
+
+<!-- Tuazar_Combo_lunes.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Combo_lunes.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Combo_lunes.png" alt="Tuazar_Combo_lunes.png">
+
+<!-- Tuazar_Cartero_Newsletter1.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter1.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter1.png" alt="Tuazar_Cartero_Newsletter1.png">
+
+<!-- Tuazar_Cartero_Newsletter2.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter2.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter2.png" alt="Tuazar_Cartero_Newsletter2.png">
+
+<!-- Tuazar_Cartero_Newsletter3.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter3.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter3.png" alt="Tuazar_Cartero_Newsletter3.png">
+
+<!-- Tuazar_Cartero_Newsletter4.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter4.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter4.png" alt="Tuazar_Cartero_Newsletter4.png">
