@@ -647,3 +647,18 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_C
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter4.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/Tuazar_Cartero_Newsletter4.png" alt="Tuazar_Cartero_Newsletter4.png">
+
+<!-- EmailSubstory_AVIATRIX.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_AVIATRIX.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_AVIATRIX.png" alt="EmailSubstory_AVIATRIX.png">
+
+<!-- EmailSubstory_RUSH.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_RUSH.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_RUSH.png" alt="EmailSubstory_RUSH.png">
+
+<!-- EmailSubstory_SPINEXPRESS.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_SPINEXPRESS.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_SPINEXPRESS.png" alt="EmailSubstory_SPINEXPRESS.png">
