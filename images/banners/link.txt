@@ -662,3 +662,18 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSub
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_SPINEXPRESS.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/EmailSubstory_SPINEXPRESS.png" alt="EmailSubstory_SPINEXPRESS.png">
+
+<!-- LogoOHMY.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/LogoOHMY.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/LogoOHMY.png" alt="LogoOHMY.png">
+
+<!-- tuazar_emailSub_new.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailSub_new.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailSub_new.png" alt="tuazar_emailSub_new.png">
+
+<!-- tuazar_emailsub_lotto.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailsub_lotto.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailsub_lotto.png" alt="tuazar_emailsub_lotto.png">
