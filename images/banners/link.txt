@@ -677,3 +677,8 @@ https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_e
 https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailsub_lotto.png
 
 <img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_emailsub_lotto.png" alt="tuazar_emailsub_lotto.png">
+
+<!-- tuazar_viernesrecargo_CRM.png -->
+https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_viernesrecargo_CRM.png
+
+<img src="https://cdn.jsdelivr.net/gh/BlueBullTech/BBassets@master/images/banners/tuazar_viernesrecargo_CRM.png" alt="tuazar_viernesrecargo_CRM.png">
